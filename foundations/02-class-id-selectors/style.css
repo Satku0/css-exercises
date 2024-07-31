@@ -1,0 +1,22 @@
+.cl1 {
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+    background-color: pink;
+}
+
+
+#id1 {
+    color:blue;
+    font-size:36px;
+}
+
+
+.cl2 {
+    font-size:24px;
+}
+
+
+#id2 {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size:24px;
+}
